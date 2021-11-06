@@ -1,0 +1,11 @@
+.objects {
+    float: none;
+    width: 80%;
+    font-size: 25px;
+    background: white;
+    color: black;
+    font-family: consolas;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
